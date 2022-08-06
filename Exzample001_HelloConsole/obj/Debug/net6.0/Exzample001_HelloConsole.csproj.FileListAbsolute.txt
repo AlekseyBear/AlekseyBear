@@ -1,0 +1,15 @@
+C:\NewBrainLevel\CourseGit\Exzamples\Exzample001_HelloConsole\bin\Debug\net6.0\Exzample001_HelloConsole.exe
+C:\NewBrainLevel\CourseGit\Exzamples\Exzample001_HelloConsole\bin\Debug\net6.0\Exzample001_HelloConsole.deps.json
+C:\NewBrainLevel\CourseGit\Exzamples\Exzample001_HelloConsole\bin\Debug\net6.0\Exzample001_HelloConsole.runtimeconfig.json
+C:\NewBrainLevel\CourseGit\Exzamples\Exzample001_HelloConsole\bin\Debug\net6.0\Exzample001_HelloConsole.dll
+C:\NewBrainLevel\CourseGit\Exzamples\Exzample001_HelloConsole\bin\Debug\net6.0\Exzample001_HelloConsole.pdb
+C:\NewBrainLevel\CourseGit\Exzamples\Exzample001_HelloConsole\obj\Debug\net6.0\Exzample001_HelloConsole.csproj.AssemblyReference.cache
+C:\NewBrainLevel\CourseGit\Exzamples\Exzample001_HelloConsole\obj\Debug\net6.0\Exzample001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\NewBrainLevel\CourseGit\Exzamples\Exzample001_HelloConsole\obj\Debug\net6.0\Exzample001_HelloConsole.AssemblyInfoInputs.cache
+C:\NewBrainLevel\CourseGit\Exzamples\Exzample001_HelloConsole\obj\Debug\net6.0\Exzample001_HelloConsole.AssemblyInfo.cs
+C:\NewBrainLevel\CourseGit\Exzamples\Exzample001_HelloConsole\obj\Debug\net6.0\Exzample001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\NewBrainLevel\CourseGit\Exzamples\Exzample001_HelloConsole\obj\Debug\net6.0\Exzample001_HelloConsole.dll
+C:\NewBrainLevel\CourseGit\Exzamples\Exzample001_HelloConsole\obj\Debug\net6.0\refint\Exzample001_HelloConsole.dll
+C:\NewBrainLevel\CourseGit\Exzamples\Exzample001_HelloConsole\obj\Debug\net6.0\Exzample001_HelloConsole.pdb
+C:\NewBrainLevel\CourseGit\Exzamples\Exzample001_HelloConsole\obj\Debug\net6.0\Exzample001_HelloConsole.genruntimeconfig.cache
+C:\NewBrainLevel\CourseGit\Exzamples\Exzample001_HelloConsole\obj\Debug\net6.0\ref\Exzample001_HelloConsole.dll
