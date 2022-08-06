@@ -1,0 +1,15 @@
+C:\NewBrainLevel\CourseGit\Exzamples\Exzamle002_HelloUser\bin\Debug\net6.0\Exzamle002_HelloUser.exe
+C:\NewBrainLevel\CourseGit\Exzamples\Exzamle002_HelloUser\bin\Debug\net6.0\Exzamle002_HelloUser.deps.json
+C:\NewBrainLevel\CourseGit\Exzamples\Exzamle002_HelloUser\bin\Debug\net6.0\Exzamle002_HelloUser.runtimeconfig.json
+C:\NewBrainLevel\CourseGit\Exzamples\Exzamle002_HelloUser\bin\Debug\net6.0\Exzamle002_HelloUser.dll
+C:\NewBrainLevel\CourseGit\Exzamples\Exzamle002_HelloUser\bin\Debug\net6.0\Exzamle002_HelloUser.pdb
+C:\NewBrainLevel\CourseGit\Exzamples\Exzamle002_HelloUser\obj\Debug\net6.0\Exzamle002_HelloUser.csproj.AssemblyReference.cache
+C:\NewBrainLevel\CourseGit\Exzamples\Exzamle002_HelloUser\obj\Debug\net6.0\Exzamle002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\NewBrainLevel\CourseGit\Exzamples\Exzamle002_HelloUser\obj\Debug\net6.0\Exzamle002_HelloUser.AssemblyInfoInputs.cache
+C:\NewBrainLevel\CourseGit\Exzamples\Exzamle002_HelloUser\obj\Debug\net6.0\Exzamle002_HelloUser.AssemblyInfo.cs
+C:\NewBrainLevel\CourseGit\Exzamples\Exzamle002_HelloUser\obj\Debug\net6.0\Exzamle002_HelloUser.csproj.CoreCompileInputs.cache
+C:\NewBrainLevel\CourseGit\Exzamples\Exzamle002_HelloUser\obj\Debug\net6.0\Exzamle002_HelloUser.dll
+C:\NewBrainLevel\CourseGit\Exzamples\Exzamle002_HelloUser\obj\Debug\net6.0\refint\Exzamle002_HelloUser.dll
+C:\NewBrainLevel\CourseGit\Exzamples\Exzamle002_HelloUser\obj\Debug\net6.0\Exzamle002_HelloUser.pdb
+C:\NewBrainLevel\CourseGit\Exzamples\Exzamle002_HelloUser\obj\Debug\net6.0\Exzamle002_HelloUser.genruntimeconfig.cache
+C:\NewBrainLevel\CourseGit\Exzamples\Exzamle002_HelloUser\obj\Debug\net6.0\ref\Exzamle002_HelloUser.dll
